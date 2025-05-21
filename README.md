@@ -49,6 +49,7 @@
 ## 🛠️ Technology Stack
 
 ### **Frontend:**
+
 - React 18 with Vite
 - React Router DOM v6, Context API, Axios
 - UI Frameworks: Material-UI, Styled Components, React Icons, Monaco Editor
@@ -56,6 +57,7 @@
 - Styling: CSS Modules
 
 ### **Backend:**
+
 - Node.js with Express.js
 - PostgreSQL for database management
 - JWT for authentication
@@ -63,6 +65,7 @@
 - Stripe for payment processing
 
 ### **Security:**
+
 - Implementations include Helmet, Rate Limiting, XSS Protection, and CORS
 
 ---
