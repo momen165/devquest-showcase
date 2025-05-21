@@ -72,8 +72,25 @@
 
 ## 🔍 Preview
 
+## Dashboard page for the admin
+
 ![Dashboard](./screenshots/dashboard.png)
+
+## lesson creation page for the admin
+
 ![Lesson Editor](./screenshots/lesson-view.png)
+
+## Lesson page for the users
+
+![Lesson page](./screenshots/lesson-page.png)
+
+## Course page for the users
+
+![Courses page](./screenshots/courses-page.png)
+
+## Profile page for the users
+
+![Profile page](./screenshots/profile-page.png)
 
 ---
 
