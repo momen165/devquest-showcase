@@ -3,7 +3,7 @@
 > This repository highlights **DevQuest**, an innovative interactive coding education platform that integrates gamification to enhance hands-on learning.
 
 🔒 **Important**: This repository is for **portfolio and review purposes only**. The full source code is private and not shared here. Please refrain from copying, reusing, or distributing any code presented in this showcase.
-[Visit DevQuest](https://www.dev-quest.tech/)
+[Visit DevQuest](https://www.dev-quest.me/)
 
 ---
 
